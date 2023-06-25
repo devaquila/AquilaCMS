@@ -29,7 +29,7 @@
     "adm-zip": "0.5.5",
     "agenda": "4.2.1",
     "aql-utils": "latest",
-    "axios": "0.21.1",
+    "axios": "0.27.2",
     "bcrypt": "5.0.1",
     "cookie-parser": "1.4.5",
     "cors": "2.8.5",
